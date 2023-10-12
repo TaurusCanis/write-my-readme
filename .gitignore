@@ -1,0 +1,21 @@
+# Node modules
+frontend/node_modules/
+backend/node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional npm cache files
+.npm
+
+# Optional eslint cache
+.eslintcache
